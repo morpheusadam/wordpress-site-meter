@@ -4,6 +4,9 @@
   <img src="assets/images/logo.png" alt="WordPress Site Meter" width="200">
 </p>
 
+
+# DEMO 
+## https://morpheusadam.github.io/wordpress-site-meter/
 > A modern, interactive pricing calculator to estimate the cost of building a **WordPress website** based on client needs — fully responsive, RTL-ready, and built with clean HTML, CSS & JavaScript.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
