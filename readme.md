@@ -1,9 +1,8 @@
 # 🚀 WordPress Site Meter – Estimate WordPress Website Cost in Real-Time
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="WordPress Site Meter" width="200">
+  <img src="assets/images/image.png" alt="WordPress Site Meter" width="500">
 </p>
-
 
 # DEMO 
 ## https://morpheusadam.github.io/wordpress-site-meter/
