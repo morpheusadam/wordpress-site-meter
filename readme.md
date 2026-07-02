@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🚀 WordPress Site Meter
-
+# 🚀 Price Press
 ### A modern, interactive pricing calculator to estimate the cost of building a WordPress website in real time — fully responsive, RTL-ready, built with clean HTML, CSS & JavaScript.
 
 <p align="center">
