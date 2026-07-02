@@ -149,3 +149,20 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 ⭐ **If this tool helped you price a project, consider giving it a star!** ⭐
 
 </div>
+
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#morpheusadam/wordpress-site-meter&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/wordpress-site-meter&type=Date" alt="wordpress-site-meter — Star History Chart" width="70%" />
+</a>
+
+<div align="center">
+
+### If this project helps you, please give it a ⭐
+
+A star helps other developers discover **wordpress-site-meter** and supports continued development.
+
+</div>
