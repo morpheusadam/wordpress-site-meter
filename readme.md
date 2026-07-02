@@ -9,11 +9,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/wordpress-site-meter?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/wordpress-site-meter?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/wordpress-site-meter?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/wordpress-site-meter?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/wordpress-site-meter?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/PricePress?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/PricePress?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/PricePress?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/PricePress?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/PricePress?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -91,7 +91,7 @@ By selecting project components — website type, design, pages, features, secur
 ### Installation
 
 ```bash
-git clone https://github.com/morpheusadam/wordpress-site-meter.git
+git clone https://github.com/morpheusadam/PricePress.git
 cd wordpress-site-meter
 ```
 
@@ -126,7 +126,7 @@ wordpress-site-meter/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/wordpress-site-meter/issues) or submit a pull request to add categories, refine pricing, or improve the UI.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/PricePress/issues) or submit a pull request to add categories, refine pricing, or improve the UI.
 
 ## 📜 License
 
@@ -155,8 +155,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/wordpress-site-meter&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/wordpress-site-meter&type=Date" alt="wordpress-site-meter — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/PricePress&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/PricePress&type=Date" alt="wordpress-site-meter — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
